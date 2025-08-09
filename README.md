@@ -47,7 +47,3 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 ## 🚀 Author
 **Vijay Bedage**  
 Exploring entrepreneurship through data. Passionate about visual storytelling and uncovering business insights.
-
----
-
-Would you like help designing a visual portfolio slide for this project or refining the notebook’s narrative flow?
